@@ -14,7 +14,8 @@
     "cloudinary": "^2.5.1",
     "dotenv": "^16.0.3",
     "express": "^4.21.1",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "upload-image": "file:"
   },
   "devDependencies": {
     "webpack-cli": "^5.1.4",
